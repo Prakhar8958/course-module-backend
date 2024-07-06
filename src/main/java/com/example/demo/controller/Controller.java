@@ -58,5 +58,4 @@ public class Controller {
             return new ResponseEntity<HttpStatus>(HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
-
 }
